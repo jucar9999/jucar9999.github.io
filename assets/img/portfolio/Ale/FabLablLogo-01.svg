@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1500"
+   height="500"
+   id="svg5928"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="FabLablLogo-01.svg">
+  <defs
+     id="defs5930" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.375"
+     inkscape:cx="45.744201"
+     inkscape:cy="-31.841945"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1600"
+     inkscape:window-height="838"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata5933">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     transform="translate(0,410)">
+    <text
+       transform="scale(0.99692688,1.0030826)"
+       xml:space="preserve"
+       style="font-size:130.85336304000000000px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.68246411999999990;font-family:Sans"
+       x="70.644524"
+       y="-243.88396"
+       id="text5335"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5337"
+         x="70.644524"
+         y="-243.88396"
+         style="stroke:none;stroke-width:1.68246411999999990"><tspan
+           style="font-size:130.85336304000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;stroke:none;stroke-width:1.68246411999999990;font-family:Serif;-inkscape-font-specification:Serif"
+           id="tspan5339">UTEC </tspan></tspan></text>
+    <text
+       transform="scale(0.99692688,1.0030826)"
+       xml:space="preserve"
+       style="font-size:131.92411804000000000px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.68246411999999990;font-family:Sans"
+       x="899.83966"
+       y="-8.0024834"
+       id="text5341"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan5343"
+         x="899.83966"
+         y="-8.0024834"
+         style="font-size:131.92411804000000000px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.68246411999999990;font-family:Raavi;-inkscape-font-specification:Raavi">ACADEMY</tspan><tspan
+         sodipodi:role="line"
+         x="899.83966"
+         y="156.90266"
+         id="tspan5345"
+         style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.68246411999999990" /></text>
+    <path
+       sodipodi:nodetypes="cccccccccccccsssscc"
+       inkscape:connector-curvature="0"
+       id="path5355"
+       d="m 590.60903,22.04099 15.845,9.443126 30.15525,17.520322 0,29.80449 C 513.25857,70.13169 415.8481,-33.241987 415.8481,-159.56023 c 0,-38.22292 8.96318,-74.35595 24.81815,-106.3967 l 24.81833,14.36518 0,37.45702 0,54.70879 0,54.44035 0,54.574367 68.38296,40.142251 -0.46648,-40.342703 c -8.70549,-7.925754 -15.1952,-17.087853 -21.84535,-28.677442 -23.1843,-40.404633 -20.68808,-85.527493 5.57584,-100.784483 26.26377,-15.25699 66.34956,5.12919 89.53391,45.53396 23.18453,40.404638 20.68834,85.527352 -5.57558,100.784482 -3.34619,1.943893 -6.43302,3.083546 -10.17257,3.904943 z"
+       inkscape:transform-center-x="-41.23431"
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.68246411999999990" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-width:1.68246411999999990"
+       d="m 706.8722,-33.529735 c -26.26379,-15.256972 -28.76007,-60.379738 -5.57552,-100.784485 23.18443,-40.40475 63.27041,-60.79093 89.53423,-45.53394 4.01875,2.33454 6.63164,4.32427 9.93781,7.6478 l 40.58989,-26.05876 0,-56.89035 23.41721,-13.55975 0,0 c 16.72796,32.72579 26.21921,69.8195 26.21921,109.14899 0,127.995648 -100.02397,232.406576 -225.6982,238.63756 l 0,-27.320702 35.09258,-20.272512 46.96744,-27.3208332 47.03458,-27.3208398 46.96736,-27.253666 -0.0257,-75.625777 -33.31642,23.86754 c -13.11789,38.821879 -68.61001,85.565622 -101.14724,68.639725 z"
+       id="path5357"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="csscccccsccccccccc" />
+    <path
+       style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:1.68246411999999990"
+       d="m 653.42156,-398.6005 c -82.93806,0 -155.92085,42.79438 -198.41148,107.60509 l 24.35108,14.16381 c 0,0 40.52512,-22.1856 51.57089,-28.55485 12.16275,6.25646 26.05684,14.47681 37.93561,20.82377 -3.93527,2.08146 -5.11764,7.63299 -5.11764,11.17256 0,30.51409 37.58945,55.25065 83.95843,55.25065 46.36922,0 83.95878,-24.73656 83.95878,-55.25065 0,-30.51411 -37.58956,-55.25068 -83.95878,-55.25068 -10.73755,0.12989 -21.4001,3.21063 -32.08185,5.24234 l -27.38695,-15.28813 65.06503,-39.22199 c 63.2105,36.6278 112.36604,65.24626 171.10835,99.26454 L 850.165,-293.54636 C 807.43877,-356.93172 735.26664,-398.6005 653.42156,-398.6005"
+       id="path5359"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccsssccccccc" />
+  </g>
+</svg>

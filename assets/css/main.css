@@ -8,10 +8,19 @@ body {
     -webkit-overflow-scrolling: touch;
 }
 
-h1, h2, h3, h5 {
+h1, h2, h3{
     font-family: 'Glegoo', serif;
     font-weight: 100;
     color: #333;
+}
+
+h5 {
+    font-family: 'Glegoo', serif;
+    font-weight: 100;
+    color: #333;
+    text-align: center;
+    border-right: 1em; 
+    padding-right: 1em;
 }
 
 h4  {
@@ -32,7 +41,11 @@ p {
     margin-bottom: 18px;
     font-size: 16px;
 }
+.img_logo{
 
+    height: 20%;
+    width: 20%;
+}
 
 .centered {
     text-align: center;
@@ -42,6 +55,14 @@ p {
 }
 .mt {
     padding-top: 25px;
+}
+
+.nombre{
+    padding: 3px;
+}
+
+.apellido{
+    padding: 3px;
 }
 
 a {
@@ -198,6 +219,10 @@ hr {
 .body-push-toleft {
     left: -200px;
 }
+
+.contac_me{
+    text-align: center;
+}
 .menu, .body-push {
     -webkit-transition: all .3s ease;
     -moz-transition: all .3s ease;
@@ -224,6 +249,14 @@ hr {
     -ms-transition: all .1s ease-in-out;
     -o-transition: all .1s ease-in-out;
     transition: all .1s ease-in-out;
+    position: relative;
+}
+
+#menuToggle img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    right: 9%;
 }
 #menuToggle:hover {
     color: #fff;
@@ -512,9 +545,21 @@ hr {
 }
 #lg {
     background: #ebebeb;
-    padding-top: 60px;
-    padding-bottom: 60px;
+    padding-top: 15px;
+    padding-bottom: 15px;
     text-align: center;
+    position: relative;
+
+}
+
+#lg .container {
+
+    }
+
+#logo_foot{
+
+    width: 50%;
+    height: 50%;
 }
 #lg1 {
     background: #A4A4A4;
@@ -535,6 +580,9 @@ hr {
 
 #lg1 .container img {
     margin-top: 0px;
+    position: absolute;
+    left: 0;
+    top: 0;
 }
 
 #lg .desc {
@@ -547,15 +595,20 @@ hr {
     margin: 5em ;
     text-align: right;
     padding: 200;
+
+}
+
+#assigments{
+    font-size: 2.5em;
 }
 #call {
     background: url(../img/Aboutme.jpg) no-repeat center top;
     margin-top: -10px;
-    padding-top: 60px;
+    padding-top: 30px;
     text-align: center;
     background-attachment: relative;
     background-position: center center;
-    min-height: 600px;
+    min-height: 300px;
     width: 100%;
     -webkit-background-size: 100%;
     -moz-background-size: 100%;
@@ -577,13 +630,29 @@ hr {
      padding-right: 60px;
      padding-left: 60px;
 }
-#contact {
+
+.foto_me{
+    float: right;
+    position: absolute;
+    right: -4.5em;
+    top: -1em;
+    margin: 1em;
+
 }
 
+.contac_me{
+    position: relative;
+}
+
+.foto_me img{
+    width: 85%;
+    height: 85%;
+    border-radius: 50%
+}
 #contact p {    
      width: 100%;
      text-align: justify;
-    padding-right: 60px;
+     padding-right: 60px;
      padding-left: 60px;
  }
 #sf {
@@ -641,6 +710,11 @@ hr {
     padding-top: 50px; 
     padding-bottom: 50px;
     width: 6%;
+}
+#assignments{
+text-align: center;
+font-size: 
+
 }
 .process {
     max-width: 69em;
