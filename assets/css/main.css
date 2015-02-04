@@ -286,7 +286,7 @@ hr {
     background-size: cover;
 }
 #headerwrap1 {
-    background: url(../img/PortadaFinalProject.jpg) no-repeat center top;
+    background: url(../img/Portada.jpg) no-repeat center top;
     margin-top: -10px;
     padding-top: 100px;
     text-align: center;
@@ -552,14 +552,27 @@ hr {
 
 }
 
-#lg .container {
+#hola {
+    list-style: none;
+    max-width: 80%;
+    border-radius: 50%;
+    margin-left: 10%;
+    text-align: center;
+    display: block;
 
-    }
+}
+
 
 #logo_foot{
 
     width: 50%;
     height: 50%;
+}
+#logo_foot2{
+    float: left;
+    position: absolute;
+    left: 20px;
+    top: 0;
 }
 #lg1 {
     background: #A4A4A4;
@@ -634,14 +647,18 @@ hr {
 .foto_me{
     float: right;
     position: absolute;
-    right: -4.5em;
+    right: -1em;
     top: -1em;
     margin: 1em;
+}
 
+.foto_me img{
+    max-width: 80%;
 }
 
 .contac_me{
     position: relative;
+    text-align: center;
 }
 
 .foto_me img{
@@ -792,6 +809,7 @@ font-size:
     padding: 7px;
     width: 33%;
     opacity: 0;
+
 }
 .grid li.shown, .no-js .grid li, .no-cssanimations .grid li {
     opacity: 1;
@@ -801,7 +819,8 @@ font-size:
     border: 0;
     margin-bottom: 10px;
     display: block;
-    max-width: 100%}
+    max-width: 100%;
+    border-radius: 50%;}
 .grid img {
     opacity: .7;
 }
