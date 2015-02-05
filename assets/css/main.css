@@ -67,6 +67,10 @@ p {
     padding: 3px;
 }
 
+.slide{
+    max-width: 100%;
+}
+
 .imagen_tarea{
 
     width: 50%;
