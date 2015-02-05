@@ -1,3 +1,5 @@
+
+
 body {
     background-color: #f2f2f2;
     font-family: 'Carrois Gothic', sans-serif;
@@ -43,8 +45,8 @@ p {
 }
 .img_logo{
 
-    height: 20%;
-    width: 20%;
+    height: 50px;
+    width: 100px;
 }
 
 .centered {
@@ -63,6 +65,12 @@ p {
 
 .apellido{
     padding: 3px;
+}
+
+.imagen_tarea{
+
+    width: 50%;
+    height: 50%;
 }
 
 a {
